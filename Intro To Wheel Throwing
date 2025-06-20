@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Upcoming Classes</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 1rem;
+      font-family: sans-serif;
+      background: #ffffff;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="kilnfire-upcoming-classes" data-org-id="159" data-template-id="905" data-view="list"></div>
+  <script src="https://kilnfire.com/classembed.js"></script>
+
+</body>
+</html>
